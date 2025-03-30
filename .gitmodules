@@ -1,0 +1,3 @@
+[submodule "pcap-broker"]
+	path = pcap-broker
+	url = https://github.com/fox-it/pcap-broker.git
